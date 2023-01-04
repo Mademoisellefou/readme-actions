@@ -1,7 +1,7 @@
 name: Readme Template
 on:
-  schedule:
-    - cron: '0 */2 * * *' # every 2 hours
+  #schedule:
+  #  - cron: '0 */2 * * *' # every 2 hours
   push:
     branches: [ main ]
 jobs:
